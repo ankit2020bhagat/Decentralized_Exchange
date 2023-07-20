@@ -344,8 +344,10 @@ function App() {
         <div className="header-container">
           <header>
             <div className="left">
-              <p className="title">🐱‍👤 Decentralized StableCoin </p>
-              <p className="subtitle">Deposit ETH and mint nUSD</p>
+              <p className="title">🐱‍👤 Decentralized Exchange </p>
+              <p className="subtitle">
+                Trading of ERC20 tokens without the need for intermediaries.
+              </p>
             </div>
 
             <button
